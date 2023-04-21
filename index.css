@@ -53,8 +53,8 @@ li{
 
 /* layout */
 
-img{
-    width: 100%;
+img.bugatti{
+    width: 90vw;
 }
 
 main{
