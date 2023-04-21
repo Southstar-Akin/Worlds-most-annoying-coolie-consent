@@ -1,20 +1,11 @@
-# co6d140378c2d973e5896b23d
+# The World's Most annoying cookie consent
 
-Quick start:
+This is the worlds most annoying cookie consent form, With no regard for users consent, you will never be able to click Decline, As it is not disabled, but will always miss your fingertips
 
-```
-$ npm install
-$ npm start
-````
+## About this project
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+This is a module project from ine of Scrimbas frontend developer Career path. I had fun building this lemme know what you think about it
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
 - [The Frontend Career Path](https://scrimba.com/learn/frontend)
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
