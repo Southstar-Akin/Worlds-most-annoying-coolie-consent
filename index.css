@@ -169,3 +169,15 @@ input{
     box-shadow: 1px 1px 3px #999;
     border-radius: 5px;
 }
+@media screen and (max-width: 750px) 
+{
+
+;    main{
+    height: auto;
+    width: 96vw;
+    margin: auto;
+    }
+    img{
+        width: 90vw;
+    }
+}
