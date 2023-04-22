@@ -172,7 +172,7 @@ input{
 @media screen and (max-width: 750px) 
 {
 
-;    main{
+    main{
     height: auto;
     width: 96vw;
     margin: auto;
